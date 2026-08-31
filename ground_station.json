@@ -16,5 +16,11 @@
     "latitude": 64.8378,
     "longitude": -147.7164,
     "status": "ACTIVE"
+  },
+    {
+    "name": "SNOC",
+    "latitude": 39.0739,
+    "longitude": -77.4694,
+    "status": "ACTIVE"
   }
 ]
